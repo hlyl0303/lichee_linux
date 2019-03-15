@@ -1,0 +1,5 @@
+0x00000000	rtw_disable_gpio_interrupt	/home/hlyl/disk/00_data/03_camera/code/rtl8189ES/8189es	EXPORT_SYMBOL
+0x00000000	rtw_register_gpio_interrupt	/home/hlyl/disk/00_data/03_camera/code/rtl8189ES/8189es	EXPORT_SYMBOL
+0x00000000	rtw_config_gpio	/home/hlyl/disk/00_data/03_camera/code/rtl8189ES/8189es	EXPORT_SYMBOL
+0x00000000	rtw_get_gpio	/home/hlyl/disk/00_data/03_camera/code/rtl8189ES/8189es	EXPORT_SYMBOL
+0x00000000	rtw_set_gpio_output_value	/home/hlyl/disk/00_data/03_camera/code/rtl8189ES/8189es	EXPORT_SYMBOL
